@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLiteBooksCRUD</string>
+    <string name="book_title">Book Title</string>
+    <string name="author">Author</string>
+    <string name="view_books">View Books</string>
+    <string name="add_books">Add Books</string>
+    <string name="update">Update Book</string>
+    <string name="delete">Delete Book</string>
+    <string name="publication_date">Publication Date</string>
+</resources>
